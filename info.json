@@ -1,0 +1,24 @@
+"name": "Kirsten Forester",
+    "website": "https://kirsten4ester.github.io/",
+    "linkedin": "www.linkedin.com/in/kirstenforester",
+    "github": "kirsten4ester",
+    "email": "kirsten4ester@gmail.com",
+    "resume": "https://tomatohammado.github.io/assets/Malik-Hammad-Resume.pdf",
+    "proficientTechnologies": [
+        "Javascript",
+        "React",
+        "Vue",
+        "Node",
+        "Express",
+        "Mongodb",
+        "PostgreSQL",
+        "Python",
+        "Django",
+        "Wordpress",
+        "Drupal"
+    ],
+    "otherSkills": [
+        "Bilingual",
+        "Cartwheel Enthusiast",
+    ]
+}
